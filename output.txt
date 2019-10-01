@@ -1,0 +1,232 @@
+1
+Sequential
+Capacity: 100000 Items: 1500
+Mem inef sol =  8.12009 seconds
+Mem eff val =   3.52032 seconds
+Mem eff sol =   8.29262 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  19.371 seconds
+Mem eff val =   6.91847 seconds
+Mem eff sol =   16.3221 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  11.4886 seconds
+Mem eff val =   7.72272 seconds
+Mem eff sol =   18.5411 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  1.78029 seconds
+Mem eff val =   1.53784 seconds
+Mem eff sol =   3.56975 seconds
+Cache
+Capacity: 100000 Items: 1500
+Mem inef sol =  4.20868 seconds
+Mem eff val =   3.51614 seconds
+Mem eff sol =   8.018 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  8.4241 seconds
+Mem eff val =   6.91169 seconds
+Mem eff sol =   15.729 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  9.22011 seconds
+Mem eff val =   7.72085 seconds
+Mem eff sol =   18.0262 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  1.77115 seconds
+Mem eff val =   1.52932 seconds
+Mem eff sol =   3.4692 seconds
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  4.55486 seconds
+Mem eff val =   3.84265 seconds
+Mem eff sol =   9.14235 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  9.04765 seconds
+Mem eff val =   7.55412 seconds
+Mem eff sol =   17.9915 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  9.90349 seconds
+Mem eff val =   8.53836 seconds
+Mem eff sol =   20.2902 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  1.91303 seconds
+Mem eff val =   1.65237 seconds
+Mem eff sol =   3.89566 seconds
+2
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  2.72121 seconds
+Mem eff val =   1.95188 seconds
+Mem eff sol =   4.75965 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  5.74564 seconds
+Mem eff val =   3.83178 seconds
+Mem eff sol =   9.32557 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  6.12013 seconds
+Mem eff val =   4.22523 seconds
+Mem eff sol =   10.4751 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  1.08082 seconds
+Mem eff val =   0.854277 seconds
+Mem eff sol =   2.04247 seconds
+4
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  1.59269 seconds
+Mem eff val =   0.990726 seconds
+Mem eff sol =   2.56959 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  3.25561 seconds
+Mem eff val =   1.93937 seconds
+Mem eff sol =   4.87175 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  3.57788 seconds
+Mem eff val =   2.13773 seconds
+Mem eff sol =   5.30685 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  0.679824 seconds
+Mem eff val =   0.435337 seconds
+Mem eff sol =   1.12529 seconds
+6
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  1.30659 seconds
+Mem eff val =   0.706017 seconds
+Mem eff sol =   1.76037 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  2.59993 seconds
+Mem eff val =   1.3841 seconds
+Mem eff sol =   3.4664 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  2.68192 seconds
+Mem eff val =   1.51009 seconds
+Mem eff sol =   3.77514 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  0.546262 seconds
+Mem eff val =   0.321864 seconds
+Mem eff sol =   0.840465 seconds
+8
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  1.18787 seconds
+Mem eff val =   0.552687 seconds
+Mem eff sol =   1.38316 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  2.30932 seconds
+Mem eff val =   1.10427 seconds
+Mem eff sol =   2.74083 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  2.33688 seconds
+Mem eff val =   1.1769 seconds
+Mem eff sol =   2.96395 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  0.467336 seconds
+Mem eff val =   0.256015 seconds
+Mem eff sol =   0.687304 seconds
+11
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  1.02143 seconds
+Mem eff val =   0.423953 seconds
+Mem eff sol =   1.10062 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  1.98147 seconds
+Mem eff val =   0.837869 seconds
+Mem eff sol =   2.18409 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  2.01815 seconds
+Mem eff val =   0.918686 seconds
+Mem eff sol =   2.318 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  0.418995 seconds
+Mem eff val =   0.201204 seconds
+Mem eff sol =   0.568861 seconds
+16
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  0.887714 seconds
+Mem eff val =   0.324596 seconds
+Mem eff sol =   0.875383 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  1.75576 seconds
+Mem eff val =   0.624205 seconds
+Mem eff sol =   1.68964 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  1.79884 seconds
+Mem eff val =   0.676357 seconds
+Mem eff sol =   1.77596 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  0.366248 seconds
+Mem eff val =   0.157686 seconds
+Mem eff sol =   0.468768 seconds
+22
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  0.803252 seconds
+Mem eff val =   0.242482 seconds
+Mem eff sol =   0.707431 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  1.58419 seconds
+Mem eff val =   0.483575 seconds
+Mem eff sol =   1.40359 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  1.60412 seconds
+Mem eff val =   0.508205 seconds
+Mem eff sol =   1.36992 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  0.329966 seconds
+Mem eff val =   0.122565 seconds
+Mem eff sol =   0.385781 seconds
+32
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  0.724776 seconds
+Mem eff val =   0.176917 seconds
+Mem eff sol =   0.583271 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  1.45274 seconds
+Mem eff val =   0.340346 seconds
+Mem eff sol =   1.14004 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  1.45265 seconds
+Mem eff val =   0.353914 seconds
+Mem eff sol =   1.00318 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  0.306984 seconds
+Mem eff val =   0.093581 seconds
+Mem eff sol =   0.32144 seconds
+33
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  0.7199 seconds
+Mem eff val =   0.170595 seconds
+Mem eff sol =   0.55695 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  1.43536 seconds
+Mem eff val =   0.332878 seconds
+Mem eff sol =   1.14412 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  1.45289 seconds
+Mem eff val =   0.344011 seconds
+Mem eff sol =   0.980722 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  0.303341 seconds
+Mem eff val =   0.0916696 seconds
+Mem eff sol =   0.316427 seconds
+44
+Parallel
+Capacity: 100000 Items: 1500
+Mem inef sol =  0.688172 seconds
+Mem eff val =   0.138385 seconds
+Mem eff sol =   0.530865 seconds
+Capacity: 100000 Items: 3000
+Mem inef sol =  1.38363 seconds
+Mem eff val =   0.274733 seconds
+Mem eff sol =   1.02147 seconds
+Capacity: 1000000 Items: 300
+Mem inef sol =  1.36842 seconds
+Mem eff val =   0.263671 seconds
+Mem eff sol =   0.781908 seconds
+Capacity: 2000000 Items: 30
+Mem inef sol =  0.286998 seconds
+Mem eff val =   0.0767239 seconds
+Mem eff sol =   0.280165 seconds
